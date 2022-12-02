@@ -1,5 +1,5 @@
 {
-    "clientVersionCode": 102,
+    "clientVersionCode": 100,
     "gameFilesVersionCode": 100,
     "URL_GAME_FILES" : "https://api.ru-state.online/test/game.zip",
     "URL_GAME_FILES_UPD" : "https://dl.ru-state.online/gamefiles/files_upd.zip",
