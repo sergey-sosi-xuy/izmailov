@@ -1,0 +1,18 @@
+{
+    "URL_CLIENT" : "http://a1038550.xsph.ru/client.zip",
+    "URL_FILES" : "http://a1038550.xsph.ru/files.zip",
+    "URL_LITE_CACHE" : "http://a1038550.xsph.ru/game.zip",
+    "URL_FULL_CACHE" : "http://stg.mimas.feralhosting.com/st/gm/full_cache.zip",
+    "URL_VERSIONS" : "http://a1038550.xsph.ru/v1_versions.json",
+    "URL_GAME_SETTINGS" : "http://a1038550.xsph.ru/gta_sa.set",
+    "URL_NEWS" : "http://a1038550.xsph.ru/v1_news.json",
+    "URL_SERVERS": "http://a1038550.xsph.ru/v1_servers.json",
+    "URL_VK": "https://vk.com/sosnovkaroleplayoff",
+    "URL_NOTIFICATIONS": "https://ln.bh-rp.com/s/v0_notifications.json",
+    "URL_MODPACK": "",
+    "URL_BACKUP": "",
+    "URL_TEST_CLIENT": "http://santrope-download.react.group/st/cl/client20.zip",
+    "URL_CONFIG": "https://a1038550.xsph.ru/v1_config.json",
+	"URL_REFERAL": "https://bh-rp.com/",
+    "URL_LAUNCHER": "http://a1038550.xsph.ru/launcher.apk"
+}
